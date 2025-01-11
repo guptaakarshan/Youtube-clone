@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/youtube-clone.git
+    git clone https://github.com/guptaakarshan/youtube-clone.git
     ```
 
 2. **Navigate to the project directory:**
@@ -58,10 +58,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
+Email: [akarshang31@gmail.com](mailto:akarshang31@gmail.com
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
-
-Project Link: [https://github.com/your-username/youtube-clone](https://github.com/your-username/youtube-clone)
+Project Link: [https://github.com/guptaakarshan/youtube-clone](https://github.com/guptaakarshan/youtube-clone)
 
 ---
 
